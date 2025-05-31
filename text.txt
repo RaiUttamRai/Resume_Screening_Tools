@@ -1,0 +1,5 @@
+python -m venv Resume_Screening_Tools
+rmdir /S /Q Resume_Screening_Tools
+mkdir Resume_Screening_Tools
+cd Resume_Screening_Tools
+python -m venv env
